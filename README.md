@@ -1,6 +1,6 @@
 hi from [@lefousa](https://github.com/lefousa)!
 
-an account created for a team programming projects
+an account created for a team programming projects  
 just nerds being nerds
 
 currently [@lewardo](https://github.com/lewardo) and [@samsternofusa](https://github.com/samsternofusa), but glad to welcome more!
